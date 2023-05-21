@@ -1,0 +1,78 @@
+C:\Users\רננה\source\repos\coronaProject\coronaProject\obj\Debug\net5.0\coronaProject.csproj.AssemblyReference.cache
+C:\Users\רננה\source\repos\coronaProject\coronaProject\obj\Debug\net5.0\coronaProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\רננה\source\repos\coronaProject\coronaProject\obj\Debug\net5.0\coronaProject.AssemblyInfoInputs.cache
+C:\Users\רננה\source\repos\coronaProject\coronaProject\obj\Debug\net5.0\coronaProject.AssemblyInfo.cs
+C:\Users\רננה\source\repos\coronaProject\coronaProject\obj\Debug\net5.0\coronaProject.csproj.CoreCompileInputs.cache
+C:\Users\רננה\source\repos\coronaProject\coronaProject\obj\Debug\net5.0\coronaProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\רננה\source\repos\coronaProject\coronaProject\obj\Debug\net5.0\coronaProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\רננה\source\repos\coronaProject\coronaProject\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\רננה\source\repos\coronaProject\coronaProject\bin\Debug\net5.0\appsettings.json
+C:\Users\רננה\source\repos\coronaProject\coronaProject\bin\Debug\net5.0\coronaProject.exe
+C:\Users\רננה\source\repos\coronaProject\coronaProject\bin\Debug\net5.0\coronaProject.deps.json
+C:\Users\רננה\source\repos\coronaProject\coronaProject\bin\Debug\net5.0\coronaProject.runtimeconfig.json
+C:\Users\רננה\source\repos\coronaProject\coronaProject\bin\Debug\net5.0\coronaProject.runtimeconfig.dev.json
+C:\Users\רננה\source\repos\coronaProject\coronaProject\bin\Debug\net5.0\coronaProject.dll
+C:\Users\רננה\source\repos\coronaProject\coronaProject\bin\Debug\net5.0\ref\coronaProject.dll
+C:\Users\רננה\source\repos\coronaProject\coronaProject\bin\Debug\net5.0\coronaProject.pdb
+C:\Users\רננה\source\repos\coronaProject\coronaProject\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\רננה\source\repos\coronaProject\coronaProject\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\רננה\source\repos\coronaProject\coronaProject\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\רננה\source\repos\coronaProject\coronaProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\רננה\source\repos\coronaProject\coronaProject\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\רננה\source\repos\coronaProject\coronaProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\רננה\source\repos\coronaProject\coronaProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\רננה\source\repos\coronaProject\coronaProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\רננה\source\repos\coronaProject\coronaProject\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\רננה\source\repos\coronaProject\coronaProject\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\רננה\source\repos\coronaProject\coronaProject\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\רננה\source\repos\coronaProject\coronaProject\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\רננה\source\repos\coronaProject\coronaProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\רננה\source\repos\coronaProject\coronaProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\רננה\source\repos\coronaProject\coronaProject\obj\Debug\net5.0\staticwebassets\coronaProject.StaticWebAssets.Manifest.cache
+C:\Users\רננה\source\repos\coronaProject\coronaProject\obj\Debug\net5.0\staticwebassets\coronaProject.StaticWebAssets.xml
+C:\Users\רננה\source\repos\coronaProject\coronaProject\obj\Debug\net5.0\scopedcss\bundle\coronaProject.styles.css
+C:\Users\רננה\source\repos\coronaProject\coronaProject\obj\Debug\net5.0\coronaProject.RazorTargetAssemblyInfo.cache
+C:\Users\רננה\source\repos\coronaProject\coronaProject\obj\Debug\net5.0\coronaProject.csproj.CopyComplete
+C:\Users\רננה\source\repos\coronaProject\coronaProject\obj\Debug\net5.0\coronaProject.dll
+C:\Users\רננה\source\repos\coronaProject\coronaProject\obj\Debug\net5.0\ref\coronaProject.dll
+C:\Users\רננה\source\repos\coronaProject\coronaProject\obj\Debug\net5.0\coronaProject.pdb
+C:\Users\רננה\source\repos\coronaProject\coronaProject\obj\Debug\net5.0\coronaProject.genruntimeconfig.cache
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\bin\Debug\net5.0\appsettings.json
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\bin\Debug\net5.0\coronaProject.exe
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\bin\Debug\net5.0\coronaProject.deps.json
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\bin\Debug\net5.0\coronaProject.runtimeconfig.json
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\bin\Debug\net5.0\coronaProject.runtimeconfig.dev.json
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\bin\Debug\net5.0\coronaProject.dll
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\bin\Debug\net5.0\ref\coronaProject.dll
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\bin\Debug\net5.0\coronaProject.pdb
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\obj\Debug\net5.0\coronaProject.csproj.AssemblyReference.cache
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\obj\Debug\net5.0\coronaProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\obj\Debug\net5.0\coronaProject.AssemblyInfoInputs.cache
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\obj\Debug\net5.0\coronaProject.AssemblyInfo.cs
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\obj\Debug\net5.0\coronaProject.csproj.CoreCompileInputs.cache
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\obj\Debug\net5.0\coronaProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\obj\Debug\net5.0\coronaProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\obj\Debug\net5.0\staticwebassets\coronaProject.StaticWebAssets.Manifest.cache
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\obj\Debug\net5.0\staticwebassets\coronaProject.StaticWebAssets.xml
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\obj\Debug\net5.0\scopedcss\bundle\coronaProject.styles.css
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\obj\Debug\net5.0\coronaProject.RazorTargetAssemblyInfo.cache
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\obj\Debug\net5.0\coronaProject.csproj.CopyComplete
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\obj\Debug\net5.0\coronaProject.dll
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\obj\Debug\net5.0\ref\coronaProject.dll
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\obj\Debug\net5.0\coronaProject.pdb
+C:\Users\רננה\Documents\SQL Server Management Studio\MyProject\SQL CoronaDB\coronaProject\coronaProject\obj\Debug\net5.0\coronaProject.genruntimeconfig.cache
